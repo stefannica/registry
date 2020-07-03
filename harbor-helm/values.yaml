@@ -434,8 +434,8 @@ jobservice:
 registry:
   registry:
     image:
-      repository: goharbor/registry-photon
-      tag: v2.0.0
+      repository: registry.suse.de/devel/caps/registry/containers/registry/harbor-registry
+      tag: v2.7.1
 
     # resources:
     #  requests:
